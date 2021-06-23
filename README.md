@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijay-03
-- 👀 I’m interested in Python | AI | Machine Learning | Deap learning 
-- 💞️ I’m looking to collaborate on AI & Machine Learning projects
+- 👀 I’m interested in Python | Machine Learning | Deap learning 
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me - contact info will be updated soon
 
 <!---
