@@ -1,0 +1,12 @@
+DESCRIPTION - CODE
+create table - CREATE TABLE tablename ( contents );    Ex - contents like - name, phone, email
+insert data - INSERT INTO tablename ( contants ) VALUES ( );   Ex  -  values llike - trigger, 638137, trigger@email.com
+display data - SELECT * FROM tablename;
+backup data to restore later - .backup tablenamebackup;
+update data - UPDATE tablename SET content='different value';
+restore data - .restore tablenamebackup;
+delete all table data - DELETE FROM tablename; 
+delete particular data -  DELETE FROM tablename WHERE contant=value;
+to get tables in database - .tables;
+to get code used to create tables - .schema
+to get code used throughout - .dump
