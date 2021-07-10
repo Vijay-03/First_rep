@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vijay-03
-- 👀 I’m interested in Python | Machine Learning | Deap learning 
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me - contact info will be updated soon
+- 👀 This repository will include experimental projects on all topics of python in Python3.
 
 <!---
 Vijay-03/Vijay-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
