@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijay-03
-- 👀 This repository will include experimental projects on all topics of python in Python3.
+- 👀 This repository will my include experimental projects on all topics of python in Python3.
 
 <!---
 Vijay-03/Vijay-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
